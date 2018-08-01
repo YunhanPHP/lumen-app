@@ -1,7 +1,7 @@
 # lumen-app
 
 ## 公共文档
-- [GIT规范](https://github.com/YunhanTech/overview/blob/master/rule/git.md)
+- [GIT使用规范](https://github.com/YunhanTech/overview/blob/master/rule/git.md)
 - [PHP开发规范](https://github.com/YunhanPHP/overview/blob/master/dev/rule.md)
 - [Lumen最佳实践](https://github.com/YunhanPHP/overview/blob/master/lumen/lumen.md)
 
